@@ -15,7 +15,7 @@
 
 
 ### Description
-I had to design a skateboard.This assignment was also for me learn some shortcuts for CAD.
+I had to design a skateboard.This assignment was also for me to learn some shortcuts for CAD.
 
 
 ### Evidence
